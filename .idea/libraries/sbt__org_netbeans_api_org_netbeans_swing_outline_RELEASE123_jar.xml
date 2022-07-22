@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.netbeans.api:org-netbeans-swing-outline:RELEASE123:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/netbeans/api/org-netbeans-swing-outline/RELEASE123/org-netbeans-swing-outline-RELEASE123.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/netbeans/api/org-netbeans-swing-outline/RELEASE123/org-netbeans-swing-outline-RELEASE123-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
